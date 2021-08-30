@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This page is the Packer's documentation. Below is possible to verify more about this project.
+This page is the Packer's documentation. Below is possible to see more about this project.
 
 ## Design Pattern
 
