@@ -2,16 +2,12 @@ package com.mobiquity.packer.model;
 
 import java.io.Serializable;
 
-public class PackageItem implements Serializable, Comparable<PackageItem>{
-	
-	/**
-	 * 
-	 */
+public class PackageItem implements Serializable, Comparable<PackageItem> {
+
 	private static final long serialVersionUID = 1L;
 	private Integer id;
 	private Double weight;
 	private Double price;
-
 
 	public PackageItem(Integer id, Double weight, Double price) {
 		super();
